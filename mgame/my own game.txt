@@ -1,0 +1,6 @@
+create background
+create pc[dot]
+create controls for pc
+create walls for pc
+add random npc[friends]
+50% of freinds will not like you
